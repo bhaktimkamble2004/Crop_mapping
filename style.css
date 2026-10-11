@@ -30,8 +30,9 @@ a{color:inherit}
   min-height:78vh;
   color:white;
   background:
-    radial-gradient(circle at 80% 20%,rgba(77,160,106,.32),transparent 28%),
-    linear-gradient(135deg,#0c2117,#153e29 60%,#205c3d);
+    linear-gradient(90deg,rgba(6,28,18,.90) 0%,rgba(7,34,22,.78) 45%,rgba(7,31,20,.45) 100%),
+    url("assets/hero-background.png") center center / cover no-repeat;
+  background-color:#10271c;
 }
 .nav{
   min-height:74px;
