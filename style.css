@@ -159,7 +159,7 @@ a{
       rgba(7,34,22,.78) 45%,
       rgba(7,31,20,.45) 100%
     ),
-    url("assets/hero-background.png") center center / cover no-repeat;
+    url("hero-background.png") center center / cover no-repeat;
 
   background-color:#10271c;
   position:relative;
